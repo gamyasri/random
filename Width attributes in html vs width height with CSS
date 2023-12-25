@@ -1,0 +1,3 @@
+If for an image height and width are given as html attributes & also as css values , CSS values override html attributes 
+Html width height (presentational attributes)are weakest , css attributes ( inline or internal or external attributes)  are strongest
+width = 25 means 25 pixels 
